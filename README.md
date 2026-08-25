@@ -90,19 +90,15 @@ The tuned Random Forest is treated as the final model in the GitHub-ready notebo
 ## Repository Structure
 
 ```text
-flight-price-prediction-ml/
+Flight_Price_Prediction_ML/
 │
-├── data/
-│   └── Flight_Fare.xlsx
 ├── notebook/
 │   └── Flight_Price_Prediction.ipynb
-├── models/
-│   └── flight_price_model.pkl
-├── images/
+│
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
-└── LICENSE
+└── .gitattributes
 ```
 
 ## Technologies Used
